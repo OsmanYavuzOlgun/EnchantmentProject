@@ -1,0 +1,13 @@
+Mobile%IOS%Temple Run%Imangi Studios%16 January 2013%0.0
+Mobile%Android%Wild Rift%Riot Games%27 Oct. 2020%0.0
+Mobile%IOS%Balls?%Dani%16 Fanuary 2019%5.0
+Mobile%Android%Storm Riders%Fortune Studios%3 March 2019%15.0
+Mobile%IOS%Dragon Fight%Haso Studios %2 February 2015%0.0
+Mobile%Android%Jumpman Plus%YavuzOlgunSoftware%30 January 2016%2.0
+2D%Windows%Witcher 3%CD Projekt Red%23 March 2015%Platformer%25.0%2.0%2%8
+3D%Windows%Return of the Real King%Şişman Game Studios%19 December 2020%RPG%25.0%2.0%2%8
+2D%IOS%League of Legends%Riot Games%2 March 2014%Arcade%55.0%2.0%2%8
+3D%IOS%Witcher 2%CD Projekt Red%26 April 2019%Rpg%45.0%2.0%1%6
+3D%Windows%Dota 2%Valve%23 March 2015%MOBA%0.0%0.0%1%6
+3D%IOS%Assasins Creed%CD Projekt Red%23 March 2015%RPG%20.0%2.0%3%10
+3D%Windows%Battlefield 5%Electronic Arts%23 March 2015%First Person Shooter%40.0%2.0%4%16
